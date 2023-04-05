@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b903ae8-bedc-4294-91da-ebe0e8e00e08" name="Default Changelist" comment="" />
+    <list default="true" id="f4a7bb78-bd8a-4cc8-970a-127b8e2f2409" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2NSblDuEdnjq4xUnOKVFTT7GT77" />
+  <component name="ProjectId" id="2NXUBer2FJ2QPd8bzHdMA64vGOY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,9 +15,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RunManager" selected="Python.judgeSpamMessage">
+    <configuration name="graduationProject" type="PythonConfigurationType" factoryName="Python">
+      <module name="SpamMessage-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\SpamMessage-master\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="judgeSpamMessage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpamMessage-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -26,32 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpamMessage-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SpamMessage-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/7月实训/myface" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/7月实训/myface/test_face.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/judgeSpamMessage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,112 +60,46 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.graduationProject" />
       <item itemvalue="Python.judgeSpamMessage" />
-      <item itemvalue="Python.test_face" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.judgeSpamMessage" />
-        <item itemvalue="Python.test_face" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b903ae8-bedc-4294-91da-ebe0e8e00e08" name="Default Changelist" comment="" />
-      <created>1679660579680</created>
+      <changelist id="f4a7bb78-bd8a-4cc8-970a-127b8e2f2409" name="Default Changelist" comment="" />
+      <created>1679809787000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679660579680</updated>
+      <updated>1679809787000</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1679756730232">
+    <state x="2188" y="178" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1679809893287">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679756730232" />
-    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1679664435541" />
-    <state width="1591" height="292" key="GridCell.Tab.0.bottom" timestamp="1679803266083">
+    <state x="2188" y="178" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679809893287" />
+    <state width="1591" height="281" key="GridCell.Tab.0.bottom" timestamp="1679809942613">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1679753682008" />
-    <state width="1591" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803266083" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679714539582" />
-    <state width="1591" height="292" key="GridCell.Tab.0.center" timestamp="1679803266083">
+    <state width="1591" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679809942613" />
+    <state width="1591" height="281" key="GridCell.Tab.0.center" timestamp="1679809942612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1679753682008" />
-    <state width="1591" height="292" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803266083" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679714539582" />
-    <state width="1591" height="292" key="GridCell.Tab.0.left" timestamp="1679803266083">
+    <state width="1591" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679809942612" />
+    <state width="1591" height="281" key="GridCell.Tab.0.left" timestamp="1679809942612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1679753682008" />
-    <state width="1591" height="292" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803266083" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679714539582" />
-    <state width="1591" height="292" key="GridCell.Tab.0.right" timestamp="1679803266083">
+    <state width="1591" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679809942612" />
+    <state width="1591" height="281" key="GridCell.Tab.0.right" timestamp="1679809942612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1679753682008" />
-    <state width="1591" height="292" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803266083" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679714539582" />
-    <state width="1591" height="292" key="GridCell.Tab.1.bottom" timestamp="1679803287738">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1591" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803287738" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679714541160" />
-    <state width="1591" height="292" key="GridCell.Tab.1.center" timestamp="1679803287737">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1591" height="292" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803287737" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679714541160" />
-    <state width="1591" height="292" key="GridCell.Tab.1.left" timestamp="1679803287737">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1591" height="292" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803287737" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679714541160" />
-    <state width="1591" height="292" key="GridCell.Tab.1.right" timestamp="1679803287737">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1591" height="292" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679803287737" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679714541160" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1679801175224">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679801175224" />
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1679664751019" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py</url>
-          <line>102</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SpamMessage-master/judgeSpamMessage.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1591" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1679809942612" />
   </component>
 </project>
